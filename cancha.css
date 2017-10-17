@@ -1,0 +1,77 @@
+.caja-cancha{
+  background-color: #82FA58;
+  width: 780px;
+  height: 370px;
+  position: relative;
+}
+.cancha{
+  border: 3px solid white;
+  width: 740px;
+  height: 340px;
+  position: absolute;
+  top: 20px;
+  left: 25px;
+}
+.arco1{
+  border: 3px solid white;
+  width: 70px;
+  height: 150px;
+  position: absolute;
+  top: 110px;
+  left: 25px;
+}
+.arco2{
+  border: 3px solid white;
+  width: 70px;
+  height: 150px;
+  position: absolute;
+  top: 110px;
+  left: 695px;
+}
+.centro{
+  width: 150px;
+ height: 150px;
+ -moz-border-radius: 50%;
+ -webkit-border-radius: 50%;
+  border-radius: 50%;
+  position: absolute;
+  top: 110px;
+  border: 3px solid white;
+  left: 310px;
+}
+.ficha1{
+  width: 20px;
+  height: 20px;
+  -moz-border-radius: 50%;
+ -webkit-border-radius: 50%;
+ border-radius: 50%;
+ background: white;
+ position: absolute;
+ top: 70px;
+ left: 450px;
+ box-shadow: 1px 1px 7px black;
+}
+.ficha2{
+  width: 20px;
+  height: 20px;
+  -moz-border-radius: 50%;
+ -webkit-border-radius: 50%;
+ border-radius: 50%;
+ background: white;
+ position: absolute;
+ top: 120px;
+ left: 85px;
+ box-shadow: 1px 1px 7px black;
+}
+.ficha3{
+  width: 20px;
+  height: 20px;
+  -moz-border-radius: 50%;
+ -webkit-border-radius: 50%;
+ border-radius: 50%;
+ background: white;
+ position: absolute;
+ top: 220px;
+ left: 670px;
+ box-shadow: 1px 1px 7px black;
+}
